@@ -1,0 +1,1 @@
+This repo contains the must know es6 concepts in javascript. 
